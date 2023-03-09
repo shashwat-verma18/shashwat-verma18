@@ -20,7 +20,7 @@
 </div>
 
 <!--   my-header-img -->
-![](./src/header_.png)
+![](./src/header_.jpg)
 <a href="[https://www.python.org/](https://docs.oracle.com/en/java/)"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" align="right" height="48" width="48" ></a>
 
 <!--   my-ticker -->    
