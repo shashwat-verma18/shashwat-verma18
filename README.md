@@ -1,15 +1,15 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/T5tnw3xsSagXhUrSKD/giphy.gif" width="300" height="300"/>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" height="300"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/shashwatverma/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://medium.com/@anubhav.adarsh9">
-    <img src="https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white&style=for-the-badge" alt="Medium Badge"/>
+  <a href="mailto:shashwatv18@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://twitter.com/shashwatverma_">
-    <img src="https://img.shields.io/badge/Twitter-9cf?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   </div>
 </div>
@@ -50,13 +50,14 @@
 <div align="center">
 <summary>Trophy: Hackerrank Profile Trophy</summary>
 </div>
+<br />
 
-<p align="center"> 
+<div align="center"> 
 
 <img src="./src/badges_hackerrank.png" alt="Metrics" width="57%"> <img src="./src/hackerrank-logo.jpg" alt="Metrics" 
-width="30%">
+width="16.7%">
 
-</p>
+</div>
 
 
 #### Thanks for visiting :heart:
