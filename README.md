@@ -15,7 +15,7 @@
 </div>
 <div align="center">
 <img src="https://img.shields.io/badge/status-updating-brightgreen.svg">
-<img src="https://img.shields.io/badge/Java-8-informational">
+<img src="https://img.shields.io/badge/Flutter-3.7.12-informational">
 <img src="https://komarev.com/ghpvc/?username=shashwat-verma18&style=flat-square&color=blue" alt=""/>
 </div>
 
